@@ -1,1 +1,3 @@
-{$CADDY_CONFIG}
+localhost {
+    respond "Hi"
+}
